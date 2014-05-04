@@ -1,0 +1,13 @@
+<widget id="com.example.hello" version="0.0.1">
+        <name>MeuPrimeiroApp</name>
+        <description>
+            Meu primeiro App de Celular
+        </description>
+        <author email="eduardonaleves@gmail.com" href="http://phonegap.com">
+            Eduardo Alves
+        </author>
+        <content src="index.html" />
+        <access origin="*" />
+        <preference name="Fullscreen" value="true" />
+        <preference name="WebViewBounce" value="true" />
+</widget>
